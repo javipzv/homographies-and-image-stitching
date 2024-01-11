@@ -21,8 +21,6 @@ This section focuses on stitching five horizontally overlapping photographs into
 Expanding on the panorama creation, this part introduces the challenge of joining seven images to create a wide panorama without distortion near the edges. Instead of projecting the mosaic on a plane, alternative surfaces like a sphere or cylinder are explored to mitigate unwanted distortions.
 
 ### Results
-<p align="center">
-  <img src="https://github.com/javipzv/homographies-and-image-stitching/assets/90279135/7129ca58-8c53-4202-90a4-aa611387bcb9" width="700" height="200" alt="Descripción de la imagen">
-</p>
+![ex3](https://github.com/javipzv/homographies-and-image-stitching/assets/90279135/7129ca58-8c53-4202-90a4-aa611387bcb9)
 
 
