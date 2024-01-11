@@ -9,7 +9,7 @@ This exercise implements a system for localizing a planar textured object in an 
 
 ### Output
 <p align="center">
-  <img src="https://github.com/javipzv/homographies-and-image-stitching/assets/90279135/9cbb011d-c1f9-4116-9abf-2ba5d22659c4" width="900" height="600" alt="Descripción de la imagen">
+  <img src="https://github.com/javipzv/homographies-and-image-stitching/assets/90279135/9cbb011d-c1f9-4116-9abf-2ba5d22659c4" width="300" height="500" alt="Descripción de la imagen">
 </p>
 
 ## Image Stitching for Panorama Creation
