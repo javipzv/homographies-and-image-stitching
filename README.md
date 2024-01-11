@@ -13,8 +13,7 @@ This exercise implements a system for localizing a planar textured object in an 
 This section focuses on stitching five horizontally overlapping photographs into a single panoramic image. The process involves recovering transformation parameters between each pair of images, warping the images to align them, and creating an image mosaic.
 
 ### Results
-- Panoramic image created from the input set of five images.
-- Comparative analysis of feature-based image stitching strategies.
+![ex2](https://github.com/javipzv/homographies-and-image-stitching/assets/90279135/2633c3e1-1360-471f-a93f-4c05b95b885d)
 
 ## Wide Panorama with 7 Images
 
