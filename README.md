@@ -4,9 +4,9 @@
 
 This exercise implements a system for localizing a planar textured object in an image. The camera resection from the estimated homography is then utilized to seamlessly insert another image with the correct perspective into the original scene.
 
-### Results
-- Sample images showcasing planar object detection.
-- Computational time measurements for various configurations.
+### Input
+
+### Output
 
 ## Image Stitching for Panorama Creation
 
