@@ -14,7 +14,7 @@ This section focuses on stitching five horizontally overlapping photographs into
 
 ### Results
 <p align="center">
-  <img src="https://github.com/javipzv/homographies-and-image-stitching/assets/90279135/2633c3e1-1360-471f-a93f-4c05b95b885d" width="300" height="200" alt="Descripción de la imagen">
+  <img src="https://github.com/javipzv/homographies-and-image-stitching/assets/90279135/2633c3e1-1360-471f-a93f-4c05b95b885d" width="900" height="600" alt="Descripción de la imagen">
 </p>
 ## Wide Panorama with 7 Images
 
