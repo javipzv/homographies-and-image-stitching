@@ -8,7 +8,9 @@ This exercise implements a system for localizing a planar textured object in an 
 ![ex_1_0](https://github.com/javipzv/homographies-and-image-stitching/assets/90279135/b0afd9f2-62ef-4f81-8aa2-82edfa7e0959)
 
 ### Output
-![ex1](https://github.com/javipzv/homographies-and-image-stitching/assets/90279135/9cbb011d-c1f9-4116-9abf-2ba5d22659c4)
+<p align="center">
+  <img src="https://github.com/javipzv/homographies-and-image-stitching/assets/90279135/9cbb011d-c1f9-4116-9abf-2ba5d22659c4" width="900" height="600" alt="Descripción de la imagen">
+</p>
 
 ## Image Stitching for Panorama Creation
 
